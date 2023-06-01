@@ -1,1 +1,4 @@
-# Minesweeper
+# Minesweeper Game
+
+
+This is the classic game of Minesweeper (childhood game), created using the C++ programming language. To get started, you need to specify the desired number of rows and columns for your game board, and then indicate the number of mines you want to place. To uncover squares (initially marked by dots), you must enter the row and column numbers of the square you wish to reveal. The numbers displayed on the board indicate how many mines are adjacent to each square. Your objective is to correctly identify all the squares without mines. Once you have uncovered all the squares without mines, the remaining dots on the board should match the number of mines you initially set. At this point, simply choose any remaining square, and a winning message will appear. If you accidentally uncover a mine during the game, you will lose. Good Luck and Have Fun!
